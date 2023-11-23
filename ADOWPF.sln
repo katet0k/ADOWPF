@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADOWPF", "ADOWPF.csproj", "{72D9C132-254A-47CB-ADF0-C51955861AD8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DBEntity", "..\DBEntity\DBEntity.csproj", "{390476AD-5A42-4778-9F1D-A31E9CEA813A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72D9C132-254A-47CB-ADF0-C51955861AD8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72D9C132-254A-47CB-ADF0-C51955861AD8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72D9C132-254A-47CB-ADF0-C51955861AD8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72D9C132-254A-47CB-ADF0-C51955861AD8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{390476AD-5A42-4778-9F1D-A31E9CEA813A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390476AD-5A42-4778-9F1D-A31E9CEA813A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390476AD-5A42-4778-9F1D-A31E9CEA813A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390476AD-5A42-4778-9F1D-A31E9CEA813A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4987FEDC-DAC2-4D4C-B28C-148A6199DC26}
+	EndGlobalSection
+EndGlobal
